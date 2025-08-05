@@ -1,0 +1,347 @@
+*,
+html {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    max-width: 2500px;
+    width: 2268px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #74C69D;
+}
+
+h6 {
+    font-family: "Work Sans", sans-serif;
+    font-size: 16px;
+}
+
+.ab:hover {
+    transform: scale(1.1);
+    transition: 1.5s;
+    color: black;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    color: white;
+}
+
+.logo {
+    text-decoration: none;
+    color: black;
+    font-size: 40px;
+    color: white;
+    margin-top: 17px;
+    font-family: "Work Sans", sans-serif;
+}
+
+.logo:hover {
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+.he1 {
+    font-size: 40px;
+    font-family: "Work Sans", sans-serif;
+}
+
+.pi {
+    font-size: 15px;
+    font-family: "Work Sans", sans-serif;
+}
+
+.rasm {
+    width: 70px;
+}
+
+nav {
+    display: flex;
+    gap: 30px;
+}
+
+.hero {
+    max-width: 2500px;
+    background-color: #74C69D;
+    width: 2268px;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.div {
+    width: 416px;
+    margin-left: 500px;
+    margin-top: 170px;
+    line-height: 1.2;
+}
+
+.dev {
+    width: 270px;
+    margin-right: 500px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.buton {
+    padding-left: 38px;
+    padding-right: 38px;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    margin-top: 10px;
+    border-radius: 4px;
+    border: none;
+    font-size: 24px;
+    margin-top: 15px;
+}
+
+.buton:hover {
+    background-color: black;
+    color: white;
+    transition: 1.7s;
+    transform: scale(1);
+    box-shadow: 1px 1px 6px black;
+}
+
+h6 {
+    color: white;
+    margin-bottom: 7px;
+    font-family: "Work Sans", sans-serif;
+}
+
+.class {
+    text-align: center;
+    margin-top: 30px;
+    line-height: 1.6;
+}
+
+.h3 {
+    font-size: 40px;
+    font-family: "Work Sans", sans-serif;
+}
+
+.h5 {
+    font-size: 16px;
+    font-family: "Work Sans", sans-serif;
+}
+
+.lorem {
+    font-size: 20px;
+    font-family: "Work Sans", sans-serif;
+}
+
+.ment {
+    width: 411px;
+    text-align: center;
+    justify-self: center;
+    margin-bottom: 55px;
+}
+
+.box {
+    justify-self: center;
+    display: flex;
+    gap: 68px;
+    margin-bottom: 25px;
+}
+
+.hel {
+    font-size: 40px;
+
+}
+
+.btn {
+    font-family: "Work Sans", sans-serif;
+    padding-left: 23px;
+    padding-right: 23px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    border: none;
+    margin-top: 20px;
+}
+
+.cl {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+}
+
+.classs {
+    width: 400px;
+    margin-top: 70px;
+}
+
+.p {
+    color: rgb(128, 128, 128);
+    font-size: 15px;
+}
+
+.ota {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bola {
+    width: 470px;
+    margin-top: 180px;
+    margin-left: 300px;
+
+}
+
+.surat {
+    margin-right: 210px;
+}
+
+.h1 {
+    font-size: 40px;
+    font-family: "Work Sans", sans-serif;
+}
+
+.ctrl {
+    color: #74C69D;
+
+}
+
+.btn:hover {
+    transform: scale(1.0);
+    background-color: white;
+    transition: 1s;
+    color: black;
+    box-shadow: 1px 1px 6px black;
+}
+
+.h4 {
+    color: rgb(108, 107, 107);
+    font-family: "Work Sans", sans-serif;
+    margin-bottom: 28px;
+}
+
+.box-shadov {
+    width: 219px;
+    height: 299;
+    box-shadow: 1px 1px 5px black;
+    text-align: center;
+}
+
+
+
+.pe {
+    font-size: 15px;
+}
+
+.group {
+    justify-self: center;
+    display: flex;
+    gap: 160px;
+    justify-content: center;
+    width: 1850px;
+    margin-top: 30px;
+
+}
+
+.hama {
+    text-align: center;
+    width: 1800px;
+}
+
+footer {
+    background-color: #74C69d;
+    height: 90px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+
+h2 {
+    color: white;
+    font-family: "Work Sans", sans-serif;
+}
+
+.umar {
+    width: 250px;
+    height: 18px;
+}
+
+.port {
+    width: 170px;
+    margin-top: 10px;
+}
+
+.shift {
+    width: 290px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.hamma {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    line-height: 1.6;
+    margin-left: 290px;
+}
+
+.copy {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.bt {
+    padding-left: 23px;
+    padding-right: 23px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    border: none;
+    margin-top: 20px;
+    margin-right: 210px;
+}
+
+.bt:hover {
+    transform: scale(1.0);
+    background-color: white;
+    transition: 1s;
+    color: black;
+    box-shadow: 1px 1px 6px black;
+}
+
+.html {
+    gap: 30px;
+    display: flex;
+}
+
+@media (max-width:768px) {
+    .box {
+        display: flex;
+        flex-direction: column;
+        line-height: 1.5;
+        text-align: center;
+    }
+
+    header {
+        display: flex;
+        flex-direction: column;
+        margin-right: 500px;
+    }
+
+    .group {
+        display: flex;
+        flex-direction: column;
+    }
+
+
+
+}
